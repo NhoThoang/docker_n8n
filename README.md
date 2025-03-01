@@ -53,14 +53,12 @@ docker ps -a
 Sau đó, truy cập domain của bạn để kiểm tra xem web đã hoạt động chưa.  
 
 ---  
+### các template các bạn có thể tham khảo tải về để chỉnh sửa 
+[template n8n](https://n8n.io/workflows/?utm_source=n8n_app&utm_medium=template_library&utm_instance=http%3A%2F%2F35.238.151.93%3A5678%2F&utm_n8n_version=1.80.5&utm_awc=0)
 
+---
 ✅ **Nếu thấy hay và giúp ích cho các bạn bạn có thể gửi quà cho mình nhé Thanks!**
 
 <img src="./picture/qr_pay.png" alt="QR Pay" width="100">
-<!-- <a href="./picture/qr_pay.png">
-    <img src="./picture/qr_pay.png" width="100">
-</a> -->
-
-
 
 
